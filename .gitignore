@@ -1,26 +1,33 @@
-# Byte-compiled / cache
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-*.pyo
-*.pyd
+*$py.class
 
 # Virtual environment
 venv/
 env/
 .env
+.venv/
 
-# Jupyter
+# Jupyter Notebook
 .ipynb_checkpoints/
 
-# Data (optional - if dataset is large)
-# data/raw/
+# Data files (uncomment if dataset is large)
 # data/*.csv
+# data/raw/
 
-# Results / large files
+# Results / models
 *.h5
 *.pkl
 *.joblib
+*.model
 
 # OS files
 .DS_Store
 Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
