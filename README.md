@@ -74,5 +74,3 @@ We plan to use one of the following publicly available datasets:
   - jupyter
 
 ---
-
-## 📁 Project Structure
