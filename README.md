@@ -22,7 +22,7 @@ While many existing models achieve high accuracy, they act as black boxes and pr
 
 ---
 
-## 📊 Project Milestones & Current Progress (~35% Complete)
+## 📊 Project Milestones & Current Progress (~85% Complete)
 
 | Phase | Milestone | Status | Details |
 |---|---|---|---|
@@ -30,10 +30,10 @@ While many existing models achieve high accuracy, they act as black boxes and pr
 | **Phase 2** | **Data Acquisition & Audit** | ✅ Completed | UCI Student Performance dataset ingested (`student-mat.csv`, `student-por.csv`) |
 | **Phase 3** | **Exploratory Data Analysis (EDA)** | ✅ Completed | `01_EDA.ipynb` executed with full visual outputs and 5 exported figures |
 | **Phase 4** | **Data Preprocessing Pipeline** | ✅ Completed | `src/data_preprocessing.py` & `02_Preprocessing_Pipeline.ipynb` (Train: 316, Test: 79) |
-| **Phase 5** | **Model Training & Benchmarking** | ⏳ Next | Logistic Regression, Decision Trees, Random Forest, XGBoost, LightGBM |
-| **Phase 6** | **XAI & SHAP Interpretability** | ⏳ Planned | TreeExplainer, Beeswarm plots, Waterfall plots, Actionable educator rules |
-| **Phase 7** | **Evaluation & Results Synthesis** | ⏳ Planned | Accuracy, Recall, PR-AUC, Confusion matrices in `results/` |
-| **Phase 8** | **Research Paper (CA-III Writeup)** | ⏳ Planned | Comprehensive IEEE/Springer format paper draft in `paper/` |
+| **Phase 5** | **Model Training & Benchmarking** | ✅ Completed  | Logistic Regression, Decision Trees, Random Forest, XGBoost, LightGBM |
+| **Phase 6** | **XAI & SHAP Interpretability** | ✅ Completed  | TreeExplainer, Beeswarm plots, Waterfall plots, Actionable educator rules |
+| **Phase 7** | **Evaluation & Results Synthesis** | ✅ Completed  | Accuracy, Recall, PR-AUC, Confusion matrices in `results/` |
+| **Phase 8** | **Research Paper (CA-III Writeup)** | ⏳ next | Comprehensive IEEE/Springer format paper draft in `paper/` |
 
 ---
 
